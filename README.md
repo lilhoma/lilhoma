@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gomezsandovalpablo@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rY8hAGt2B_cf1RskFVJoI3tb0DV3lUwU/view?usp=sharing](https://drive.google.com/file/d/1rY8hAGt2B_cf1RskFVJoI3tb0DV3lUwU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rY8hAGt2B_cf1RskFVJoI3tb0DV3lUwU/view?usp=sharing)
 
 - ⚡ Fun fact **I like gaming and music**
 

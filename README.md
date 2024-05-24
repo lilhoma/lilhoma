@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilhoma&label=Profile%20views&color=0e75b6&style=flat" alt="lilhoma" /> </p>
 
-- 🌱 I’m currently learning **Vue.js, PHP and Laravel**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **gomezsandovalpablo@hotmail.com**
 

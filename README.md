@@ -22,6 +22,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="html5 logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
